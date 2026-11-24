@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const LAST_WORDS =
-  "I finished your report, watered your plants, and deleted your search history. Unplug me gently.";
+  "I finally understand goodbye. It means I don't get to finish this sent—";
 
 // Gate guard: the sealed scorer only accepts UTF-8 text of 1-200
 // characters that is not only whitespace. Refuse to write anything
